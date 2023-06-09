@@ -53,3 +53,26 @@
 ### ***A preparação do ambiente consiste em instalar as tecnologias citadas anteriormente de acordo com seu sistema operacional***.
 
 ### **Para instalar o o ambiente de desenvolvimento, baixe o Visual Studio Code através do endereço: [Visual Studio Code](https://code.visualstudio.com/Download)**
+
+<br/>
+
+## 🔮 Implementações futuras
+1. Implementar a possibilidade de criar um Frontend separado do Backend, fazendo que este pequeno projeto venha a se tornar uma aplicação SPA(Single Page Aplication).
+
+2. Implementar a possibilidade de o Frontend ser realizado em Angular.Js.
+
+3. Implementar autenticação e autorização por meio de token, afim de impedir que usuários realizem alterações sem ter algum tipo de perfil "Role/Claim".
+
+<br/>
+
+## 🤵🤵‍♀️ Colaboradores
+
+Até o momento este projeto possui apenas um colaborador, **Carlos Vieira** (Que propos o desafio e é Responsável pelo desenvolvimento dessa API), que contribuiu após o desenvolvimento do projeto com o arquivo Readme e que também trabalha em melhorias para o projeto.
+
+<br/>
+
+## 🔎 Status do Projeto
+
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+
+
