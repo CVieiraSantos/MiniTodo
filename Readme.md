@@ -52,9 +52,4 @@
 
 ### ***A preparação do ambiente consiste em instalar as tecnologias citadas anteriormente de acordo com seu sistema operacional***.
 
-Para instalar o Node.js, acesse: https://nodejs.org/pt-br/download/package-manager/
-
-O Typescript também precisa ser configurado, utilize essa página como referência: https://www.typescriptlang.org/download
-
-O sequelize deve ser configurado conforme orientações da documentação oficial: https://sequelize.org/docs/v6/getting-started/
-Para utilizar o express, ele também deve ser instalado: https://expressjs.com/pt-br/starter/installing.html 
+### **Para instalar o o ambiente de desenvolvimento, baixe o Visual Studio Code através do endereço: [Visual Studio Code](https://code.visualstudio.com/Download)**
