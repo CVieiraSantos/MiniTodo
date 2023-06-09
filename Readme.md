@@ -6,6 +6,7 @@
 ### - ✌  ***Atualmente tenho criado projetos próprios de estudos na linguagem de programação C#***
 ### - 💻 ***Me pergunte sobre tecnologia, projetos na linguagem C# - ficarei feliz em ajudar :)***
 ### - 😊 ***Saiba mais sobre mim em https://www.linkedin.com/in/carlos-vieirasantos/***
+### - :outbox_tray: ***Ou através do e-mail carlos.eduvieirasantos@gmail.com***
 <br>
 
 ![Tarefa](https://img.freepik.com/fotos-gratis/bloco-de-anotacoes-com-lista-de-tarefas-na-vista-superior-da-mesa_23-2148938741.jpg)
