@@ -1,6 +1,12 @@
 # Olá eu sou Carlos Vieira
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CVieiraSantos&color=yellow" alt="Profile views" /> </p> <br>
 
+### - 👋 ***Apaixonado por tecnologia***
+### - 👀 ***Estudante de análise e desenvolvimento de sistemas***
+### - ✌  ***Atualmente tenho criado projetos próprios de estudos na linguagem de programação C#***
+### - 💻 ***Me pergunte sobre tecnologia, projetos na linguagem C# - ficarei feliz em ajudar :)***
+### - 😊 ***Saiba mais sobre mim em https://www.linkedin.com/in/carlos-vieirasantos/***
+<br>
 
 ![Tarefa](https://img.freepik.com/fotos-gratis/bloco-de-anotacoes-com-lista-de-tarefas-na-vista-superior-da-mesa_23-2148938741.jpg)
 
